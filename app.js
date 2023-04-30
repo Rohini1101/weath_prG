@@ -58,3 +58,12 @@ app.listen(5000, function () {
 })
 
 
+// https://koyalmohadikar.github.io/rohini-project/
+// https://koyalmohadikar.github.io/kit_01/
+
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin git@github.com:Rohini1101/weather-project.git
+// git push -u origin main
