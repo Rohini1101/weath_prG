@@ -1,6 +1,6 @@
 {
   "name": "rohini",
-  "homepage": "https://rohini1101.github.io/weather_project/s",
+  "homepage": "https://github.com/Rohini1101/weather-project.git",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -17,6 +17,7 @@
     "body": "^5.1.0",
     "body-parser": "^1.20.2",
     "express": "^4.18.2",
+    "gh-pages": "^5.0.0",
     "mocha": "^10.2.0",
     "react-scripts": "^5.0.1"
   }
